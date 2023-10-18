@@ -34,5 +34,5 @@ override.tf.json
 terraform.rc
 
 .terraform.*
-portfolio
-portfolio.pub
+labs
+labs.pub
